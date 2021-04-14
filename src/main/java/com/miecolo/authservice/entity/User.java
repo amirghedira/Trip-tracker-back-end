@@ -43,8 +43,6 @@ public class User implements Serializable {
     private String email;
     private String address;
     private String phoneNumber;
-    private String quote;
-    private Integer score;
 
     @JsonIgnore
     private Boolean activated = false;

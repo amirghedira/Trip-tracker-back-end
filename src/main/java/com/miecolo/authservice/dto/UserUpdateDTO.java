@@ -20,5 +20,4 @@ public class UserUpdateDTO {
     private Date birthDate;
     private String address;
     private String phoneNumber;
-    private String quote;
 }
